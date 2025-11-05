@@ -1,6 +1,6 @@
 ---
 title: Základy vyšší matematiky
-layout: home
+layout: default
 ---
 
 
