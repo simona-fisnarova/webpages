@@ -1,3 +1,7 @@
+---
+title: Matematika
+layout: home
+---
 
 # Matematika
 
