@@ -1,6 +1,6 @@
 ---
 title: Matematika
-layout: home
+layout: default
 ---
 
 
