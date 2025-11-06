@@ -3,9 +3,8 @@ title: Matematika
 layout: default
 ---
 
-# Matematika
-
-
+# Matematika (MTL) - ZS 2025/26
+------------------------------------------------------------------------
 
 ### Přednášky a cvičení (PDF):
 
