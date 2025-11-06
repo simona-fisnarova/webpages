@@ -5,8 +5,7 @@ layout: default
 
 # Matematika
 
-* [prednaska 1](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf)
-* [prednaska 2](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf)
+
 
 ### Přednášky a cvičení (PDF):
 
