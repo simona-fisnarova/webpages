@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Matematika (MTL) - ZS 2025/26
-------------------------------------------------------------------------
+
 
 ### Přednášky a cvičení (PDF):
 
@@ -45,7 +45,7 @@ layout: default
 - Integrální počet   [prezentace I](https://user.mendelu.cz/fisnarov/mtl/prednasky/neurc_int.pdf)
   (neurčitý integrál),   [prezentace II](https://user.mendelu.cz/fisnarov/mtl/prednasky/urc_int.pdf)
   (určitý integrál),   [řešené příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-integraly.pdf) 
-
+------------------------------------------------------------------------
 
 ### Videa:
 
@@ -96,6 +96,7 @@ layout: default
   aplikace](https://youtu.be/yvC0fBAcFbQ),   [určitý
   integrál](https://youtu.be/FCjg2nwopk8)
 
+------------------------------------------------------------------------
 ### Příklady k počítání:
 
 - [Matice a soustavy](https://user.mendelu.cz/fisnarov/mtl/priklady/lingebra.pdf)
@@ -107,3 +108,16 @@ layout: default
 - [Vlastnosti funkcí z grafů](https://user.mendelu.cz/fisnarov/mtl/priklady/grafy.pdf)
 - [Extrémy funkcí dvou proměnných](https://user.mendelu.cz/fisnarov/mtl/priklady/extremy2.pdf)
 - [Integrály](https://user.mendelu.cz/fisnarov/mtl/priklady/integraly.pdf)
+
+### Další materiály:
+
+- [Grafy elementárních
+  funkcí](http://user.mendelu.cz/marik/grafy-zakl-fci.pdf)  (R. Mařík)
+- [Vzorce na derivování a
+  integrování](http://user.mendelu.cz/marik/kraj/vzorce-CZ.pdf)  (R.
+  Mařík)
+
+### Užití počítačů při matematických výpočtech:
+
+- [Wolfram Alpha](http://www.wolframalpha.com/) - vyřeší nejen různé
+  matematické příklady, ale zodpoví i dotazy z jiných oborů
