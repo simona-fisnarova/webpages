@@ -5,7 +5,14 @@ layout: default
 
 # Matematika (MTL) - ZS 2025/26
 
+### Důležité informace:
 
+- [Základní informace](https://user.mendelu.cz/fisnarov/mtl/info/info-25.pdf),  [instrukce k závěrečné
+  písemce](https://user.mendelu.cz/fisnarov/mtl/info/z_instrukce_25.pdf)  
+  Ukázky písemek: [ukázka 1](https://user.mendelu.cz/fisnarov/mtl/info/u1.pdf),  [ukázka
+  2](https://user.mendelu.cz/fisnarov/mtl/info/u2.pdf) 
+
+--------------------------------------------------------------
 ### Přednášky a cvičení (PDF):
 
 - Vektory a matice   [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf),   [Leslieho
