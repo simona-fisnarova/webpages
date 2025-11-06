@@ -7,9 +7,9 @@ layout: default
 
 ## Důležité informace:
 
- [Základní informace](https://user.mendelu.cz/fisnarov/mtl/info/info-25.pdf),  [instrukce k závěrečné
-  písemce](https://user.mendelu.cz/fisnarov/mtl/info/z_instrukce_25.pdf)  
-  Ukázky písemek: [ukázka 1](https://user.mendelu.cz/fisnarov/mtl/info/u1.pdf),  [ukázka
+- [Základní informace](https://user.mendelu.cz/fisnarov/mtl/info/info-25.pdf)
+- [Instrukce k závěrečné písemce](https://user.mendelu.cz/fisnarov/mtl/info/z_instrukce_25.pdf)  
+- Ukázky písemek: [ukázka 1](https://user.mendelu.cz/fisnarov/mtl/info/u1.pdf),  [ukázka
   2](https://user.mendelu.cz/fisnarov/mtl/info/u2.pdf) 
 
 
@@ -30,9 +30,6 @@ layout: default
 - [Bonus 3 - kombi](mtl/bonus/bonus3-kombi.pdf),  deadline 10.11.2025
 
 
-
-
---------------------------------------------------------------
 ## Přednášky a cvičení (PDF):
 
 - Vektory a matice   [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf),   [Leslieho
@@ -73,7 +70,7 @@ layout: default
   (neurčitý integrál),   [prezentace II](https://user.mendelu.cz/fisnarov/mtl/prednasky/urc_int.pdf)
   (určitý integrál),   [řešené příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-integraly.pdf) 
 
-------------------------------------------------------------------------
+
 ## Videa:
 
 - Vektory a matice   [prezentace 1. část](https://youtu.be/vXrCG0CLVxI),
@@ -123,7 +120,7 @@ layout: default
   aplikace](https://youtu.be/yvC0fBAcFbQ),   [určitý
   integrál](https://youtu.be/FCjg2nwopk8)
 
-------------------------------------------------------------------------
+
 ## Příklady k počítání:
 
 - [Matice a soustavy](https://user.mendelu.cz/fisnarov/mtl/priklady/lingebra.pdf)
@@ -136,7 +133,7 @@ layout: default
 - [Extrémy funkcí dvou proměnných](https://user.mendelu.cz/fisnarov/mtl/priklady/extremy2.pdf)
 - [Integrály](https://user.mendelu.cz/fisnarov/mtl/priklady/integraly.pdf)
 
-------------------------------------------------------------------------
+
 ## Další materiály:
 
 - [Grafy elementárních
