@@ -8,7 +8,7 @@ layout: default
 * [prednaska 1](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf)
 * [prednaska 2](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf)
 
- ### Přednášky a cvičení (PDF):
+### Přednášky a cvičení (PDF):
 
 - Vektory a matice   [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf),   [Leslieho
   model I](https://user.mendelu.cz/fisnarov/mtl/prednasky/leslie_1.pdf),   [Markovovy
