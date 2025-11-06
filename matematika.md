@@ -45,8 +45,8 @@ layout: default
 - Integrální počet   [prezentace I](https://user.mendelu.cz/fisnarov/mtl/prednasky/neurc_int.pdf)
   (neurčitý integrál),   [prezentace II](https://user.mendelu.cz/fisnarov/mtl/prednasky/urc_int.pdf)
   (určitý integrál),   [řešené příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-integraly.pdf) 
-------------------------------------------------------------------------
 
+------------------------------------------------------------------------
 ### Videa:
 
 - Vektory a matice   [prezentace 1. část](https://youtu.be/vXrCG0CLVxI),
