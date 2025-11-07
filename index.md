@@ -3,7 +3,7 @@ title: Matematika
 layout: home
 ---
 
-* [Matematika](matematika.html)
-* [ZVM](zvm.html)
+* [Matematika (MTL)](matematika.html)
+* [Základy vyšší matematiky (ZMTL)](zmtl.html)
 
-POkus
+Tady jeste neco bude....
