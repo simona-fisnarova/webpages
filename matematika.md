@@ -32,43 +32,43 @@ layout: default
 
 ## Přednášky a cvičení (PDF):
 
-- Vektory a matice   [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf),   [Leslieho
-  model I](https://user.mendelu.cz/fisnarov/mtl/prednasky/leslie_1.pdf),   [Markovovy
-  řetězce](https://user.mendelu.cz/fisnarov/mtl/prednasky/markov.pdf),  
-  [řešené příklady I](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-matice1.pdf) (počítání s
+- Vektory a matice   [prezentace](mtl/prednasky/matice.pdf),   [Leslieho
+  model I](mtl/prednasky/leslie_1.pdf),   [Markovovy
+  řetězce](mtl/prednasky/markov.pdf),  
+  [řešené příklady I](mtl/pdfvideo/cv-matice1.pdf) (počítání s
   maticemi - chyba v příkladu 3: na prvním řádku má být 6 místo 5),  
-  [řešené příklady II](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní
+  [řešené příklady II](mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní
   matice, determinant)
-- Soustavy lineárních rovnic   [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/soustavy.pdf),
-    [řešené příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-soustavy.pdf),   [slovní
-  úloha](https://user.mendelu.cz/fisnarov/mtl/prednasky/soustavy-apl.pdf)
+- Soustavy lineárních rovnic   [prezentace](mtl/prednasky/soustavy.pdf),
+    [řešené příklady](mtl/pdfvideo/cv-soustavy.pdf),   [slovní
+  úloha](mtl/prednasky/soustavy-apl.pdf)
 - Vlastní hodnoty a vektory  
-  [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/vl_hodnoty.pdf),   [Leslieho model
-  II](https://user.mendelu.cz/fisnarov/mtl/prednasky/leslie_2.pdf),   [řešené
-  příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-vl_hodnoty.pdf)
+  [prezentace](mtl/prednasky/vl_hodnoty.pdf),   [Leslieho model
+  II](mtl/prednasky/leslie_2.pdf),   [řešené
+  příklady](mtl/pdfvideo/cv-vl_hodnoty.pdf)
 - Funkce jedné a více proměnných   [prezentace
-  I](https://user.mendelu.cz/fisnarov/mtl/prednasky/funkce_1.pdf) (funkce jedné proměnné),   [prezentace
-  II](https://user.mendelu.cz/fisnarov/mtl/prednasky/funkce_2.pdf) (funkce dvou a více proměnných),  
-  [řešené příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-funkce.pdf),   [exponenciální funkce
-  a logaritmus](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/exponencialni.pdf)
-- Limita a spojitost   [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/limita.pdf)
+  I](mtl/prednasky/funkce_1.pdf) (funkce jedné proměnné),   [prezentace
+  II](mtl/prednasky/funkce_2.pdf) (funkce dvou a více proměnných),  
+  [řešené příklady](mtl/pdfvideo/cv-funkce.pdf),   [exponenciální funkce
+  a logaritmus](mtl/pdfvideo/exponencialni.pdf)
+- Limita a spojitost   [prezentace](mtl/prednasky/limita.pdf)
 - Derivace a parciální derivace funkce   [prezentace
-  I](https://user.mendelu.cz/fisnarov/mtl/prednasky/derivace.pdf) (derivace),   [prezentace
-  II](https://user.mendelu.cz/fisnarov/mtl/prednasky/parc-deriv.pdf) (parciální derivace),  
-  [řešené příklady I](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-derivace.pdf) (výpočet),   [řešené
-  příklady II](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-aproximace.pdf) (lineární aproximace),  
-  [slovní úlohy](https://user.mendelu.cz/fisnarov/mtl/prednasky/derivace-apl.pdf)
+  I](mtl/prednasky/derivace.pdf) (derivace),   [prezentace
+  II](mtl/prednasky/parc-deriv.pdf) (parciální derivace),  
+  [řešené příklady I](mtl/pdfvideo/cv-derivace.pdf) (výpočet),   [řešené
+  příklady II](mtl/pdfvideo/cv-aproximace.pdf) (lineární aproximace),  
+  [slovní úlohy](mtl/prednasky/derivace-apl.pdf)
 - Extrémy funkce jedné proměnné (a konvexnost/konkávnost)  
-  [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/extremy.pdf),   [slovní
-  úlohy](https://user.mendelu.cz/fisnarov/mtl/prednasky/extremy-apl.pdf),   řešené příklady - viz video
+  [prezentace](mtl/prednasky/extremy.pdf),   [slovní
+  úlohy](mtl/prednasky/extremy-apl.pdf),   řešené příklady - viz video
   níže
 - Extrémy funkce dvou proměnných  
-  [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/extremy2.pdf),   [řešené příklady
-  I](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-lok_extr.pdf) (lokální extrémy),   [řešené příklady
-  II](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-abs_extr.pdf) (absolutní extrémy)
-- Integrální počet   [prezentace I](https://user.mendelu.cz/fisnarov/mtl/prednasky/neurc_int.pdf)
-  (neurčitý integrál),   [prezentace II](https://user.mendelu.cz/fisnarov/mtl/prednasky/urc_int.pdf)
-  (určitý integrál),   [řešené příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-integraly.pdf) 
+  [prezentace](mtl/prednasky/extremy2.pdf),   [řešené příklady
+  I](mtl/pdfvideo/cv-lok_extr.pdf) (lokální extrémy),   [řešené příklady
+  II](mtl/pdfvideo/cv-abs_extr.pdf) (absolutní extrémy)
+- Integrální počet   [prezentace I](mtl/prednasky/neurc_int.pdf)
+  (neurčitý integrál),   [prezentace II](mtl/prednasky/urc_int.pdf)
+  (určitý integrál),   [řešené příklady](mtl/pdfvideo/cv-integraly.pdf) 
 
 
 ## Videa:
@@ -123,26 +123,17 @@ layout: default
 
 ## Příklady k počítání:
 
-- [Matice a soustavy](https://user.mendelu.cz/fisnarov/mtl/priklady/lingebra.pdf)
-- [Vlastní hodnoty a vektory matic](https://user.mendelu.cz/fisnarov/mtl/priklady/vl_hodnoty.pdf)
-- [Funkce](https://user.mendelu.cz/fisnarov/mtl/priklady/funkce.pdf)
-- [Derivace a parciální derivace](https://user.mendelu.cz/fisnarov/mtl/priklady/derivace.pdf)
+- [Matice a soustavy](mtl/priklady/lingebra.pdf)
+- [Vlastní hodnoty a vektory matic](mtl/priklady/vl_hodnoty.pdf)
+- [Funkce](mtl/priklady/funkce.pdf)
+- [Derivace a parciální derivace](mtl/priklady/derivace.pdf)
 - [Monotonie, extrémy, konvexnost a
-  konkávnost](https://user.mendelu.cz/fisnarov/mtl/priklady/extremy.pdf)
-- [Vlastnosti funkcí z grafů](https://user.mendelu.cz/fisnarov/mtl/priklady/grafy.pdf)
-- [Extrémy funkcí dvou proměnných](https://user.mendelu.cz/fisnarov/mtl/priklady/extremy2.pdf)
-- [Integrály](https://user.mendelu.cz/fisnarov/mtl/priklady/integraly.pdf)
+  konkávnost](mtl/priklady/extremy.pdf)
+- [Vlastnosti funkcí z grafů](mtl/priklady/grafy.pdf)
+- [Extrémy funkcí dvou proměnných](mtl/priklady/extremy2.pdf)
+- [Integrály](mtl/priklady/integraly.pdf)
 
 
-## Další materiály:
-
-- [Grafy elementárních
-  funkcí](http://user.mendelu.cz/marik/grafy-zakl-fci.pdf)  (R. Mařík)
-- [Vzorce na derivování a
-  integrování](http://user.mendelu.cz/marik/kraj/vzorce-CZ.pdf)  (R.
-  Mařík)
-
-------------------------------------------------------------------------
 ## Užití počítačů při matematických výpočtech:
 
 - [Wolfram Alpha](http://www.wolframalpha.com/) - vyřeší nejen různé
