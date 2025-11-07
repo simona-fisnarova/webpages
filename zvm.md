@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-# Základy vyšší matematiky
+# Základy vyšší matematiky (ZMTL) - ZS 2025/26
 
 ## Důležité informace:
 
