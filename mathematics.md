@@ -1,5 +1,5 @@
 ---
-title: Základy vyšší matematiky
+title: Mathematics
 layout: default
 ---
 
