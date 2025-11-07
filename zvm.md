@@ -39,8 +39,7 @@ layout: default
 
 - Dvojný integrál   <br>
 [prezentace](zmtl/prednasky/dvojny_int.pdf),
-[řešené příklady I](zmtl/pdfvideo/cv-int.pdf),
-[řešené příklady II (polární souřadnice)](zmtl/pdfvideo/cv-int_polar.pdf),
+[řešené příklady I](zmtl/pdfvideo/cv-int.pdf),  [řešené příklady II (polární souřadnice)](zmtl/pdfvideo/cv-int_polar.pdf),
 [aplikace](zmtl/aplikace/dvojny_int-apl.pdf)
 
 - Křivkový integrál   
