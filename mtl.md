@@ -18,7 +18,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - Ukázky písemek: [ukázka 1](mtl/info/u1.pdf),  [ukázka
   2](mtl/info/u2.pdf) 
 
-####  Bonusové úkoly pro studenty prezenční formy:
+#### ✏️ Bonusové úkoly pro studenty prezenční formy:
 
 - [Bonus 1 - prez](mtl/bonus/bonus1.pdf),  deadline 20.10.2025, 
   [řešení](mtl/bonus/bonus1-reseni.pdf)  
@@ -26,7 +26,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
   [řešení](mtl/bonus/bonus2-reseni.pdf)  
 - [Bonus 3 - prez](mtl/bonus/bonus3.pdf),  deadline 19.11.2025
 
-####  Bonusové úkoly pro studenty kombinované formy:
+#### ✏️ Bonusové úkoly pro studenty kombinované formy:
 
 - [Bonus 1 - kombi](mtl/bonus/bonus1-kombi.pdf),  deadline 20.10.2025, 
   [řešení](mtl/bonus/bonus1-reseni_k.pdf)  
@@ -37,10 +37,9 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 ---
 
 
-### 🎓 Přednášky a cvičení (PDF)
+### 📖 Přednášky a cvičení (PDF) 
 
 -  **Vektory a matice**
-   
    - [prezentace](mtl/prednasky/matice.pdf), [Leslieho model I](mtl/prednasky/leslie_1.pdf), [Markovovy řetězce](mtl/prednasky/markov.pdf) 
    - [řešené příklady I](mtl/pdfvideo/cv-matice1.pdf) (počítání s maticemi - chyba v příkladu 3: na prvním řádku má být 6 místo 5),  
    - [řešené příklady II](mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní matice, determinant)
@@ -88,7 +87,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 ---
 
-### 🎥 Videa  📹
+### 🎥 Videa
 
 - **Vektory a matice**
     -  [prezentace 1. část](https://youtu.be/vXrCG0CLVxI),
@@ -103,43 +102,50 @@ a budou zde vyvěšovány postupně v průběhu semestru.
     - Aplikace matic:  [Leslieho model
   populace](https://youtu.be/yZL8VM3QGKw),   [Markovovy
   řetězce](https://youtu.be/dbGJAbKj5ac)
+
 - **Soustavy lineárních rovnic**  
     - [prezentace](https://youtu.be/9lhu_F0dO0w),   [řešené
   příklady](https://youtu.be/DWQGdWWabdM)
+
 - **Vlastní hodnoty a vlastní vektory**  
    - [prezentace](https://youtu.be/j5BnDFhB9T0),   [řešené
   příklady](https://youtu.be/qt57cemBJQg)
+
 - **Funkce**
    - [Funkce jedné proměnné - prezentace](https://youtu.be/HYK7zXjmPs4),
      [Funkce dvou a více proměnných - prezentace](https://youtu.be/kGKY7k3hLlc)
   - [řešené příklady](https://youtu.be/X8RR08Y13kc), [Exponenciální funkce a logaritmus](https://youtu.be/IX0z4hYNm6g), ještě jedno [pěkné video o exponenciální
   funkci](https://youtu.be/FxmsIUHExjQ)
+
 - **Limita a spojitost**
     - [prezentace](https://youtu.be/T4obKLzlrYY)
+      
 - **Derivace a parciální derivace**
    - [prezentace derivace](https://youtu.be/6urRpjWl2Ck),
     [prezentace parciální derivace](https://youtu.be/aXL6Jht0JkE),  
    - [řešené příklady (výpočet)](https://youtu.be/86d1WHlw1iA),
      [řešené  příklady (výpočet a slovní úlohy)](https://youtu.be/h84hXyDuV5M)  
   - [lineární aproximace (řešené příklady)](https://youtu.be/pK7IZEFxFSo)
+    
 - **Extrémy funkcí jedné proměnné (a konvexnost/konkávnost)**  
   - [prezentace](https://youtu.be/Sfi34_LAgGk), [řešené příklady](https://youtu.be/H2j-Ed1t6hg)
+    
 - [Vlastnosti funkce z grafu](https://youtu.be/qH8cpo_5G6E)
+  
 - **Extrémy funkcí dvou proměnných**  
     - [prezentace](https://youtu.be/9P_9WvfL7MQ),
       [řešené příklady na lokální extrémy](https://youtu.be/sDDqAm7rs8Q),
       [řešené příklady na absolutní extrémy](https://youtu.be/yldIdytOoSM),
       [maximální zisk](https://youtu.be/_8W_pc5mGaI)
+      
 - **Integrály**
-   - [prezentace 1. část](https://youtu.be/unpThzDNajM),  
-  [prezentace 2. část](https://youtu.be/9BOW17IfFA0)
-  - [řešené příklady](https://youtu.be/Xb0A1D2xR-s),
-  [řešené příklady a aplikace](https://youtu.be/yvC0fBAcFbQ)
-  - [určitý integrál](https://youtu.be/FCjg2nwopk8)
+   - [prezentace 1. část](https://youtu.be/unpThzDNajM), [prezentace 2. část](https://youtu.be/9BOW17IfFA0),
+     [řešené příklady](https://youtu.be/Xb0A1D2xR-s), [řešené příklady a aplikace](https://youtu.be/yvC0fBAcFbQ)
+   - [určitý integrál](https://youtu.be/FCjg2nwopk8)
 
 ---
 
-### 🧮 Příklady k počítání:
+### 🧮 Příklady k počítání
 
 - [Matice a soustavy](mtl/priklady/lingebra.pdf)
 - [Vlastní hodnoty a vektory matic](mtl/priklady/vl_hodnoty.pdf)
@@ -153,7 +159,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 ---
 
-### Užití počítačů při matematických výpočtech:
+### 💻 Užití počítačů při matematických výpočtech
 
 - [Wolfram Alpha](http://www.wolframalpha.com/) - vyřeší nejen různé
   matematické příklady, ale zodpoví i dotazy z jiných oborů
