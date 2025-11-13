@@ -5,15 +5,15 @@ layout: default
 
 # Matematika (MTL) - ZS 2025/26
 
-Tato stránka věnovaná výuce předmětu Matematika, který vyučuji pro studenty lesnictví na LDF MENDELU v prvním semestru. 
+Tato stránka je věnovaná výuce předmětu Matematika, který vyučuji pro studenty lesnictví na LDF MENDELU v prvním semestru. 
 Níže najdete informace o ukončení předmětu, zadání bonusových úkolů a výukové materiály. Bonusové úkoly jsou dobrovolné 
 a budou zde vyvěšovány postupně v průběhu semestru. 
 
 
-## Důležité informace:
+## 💡 Důležité informace:
 
-- [Základní informace](mtl/info/info-25.pdf)
-- [Instrukce k závěrečné písemce](mtl/info/z_instrukce_25.pdf)  
+- [Základní informace](mtl/info/info-25.pdf) k organizaci předmětu, bonusovým úkolům a ukončení předmětu
+- [Instrukce k závěrečné písemce](mtl/info/z_instrukce_25.pdf) a co si můžete vzít s sebou 
 - Ukázky písemek: [ukázka 1](mtl/info/u1.pdf),  [ukázka
   2](mtl/info/u2.pdf) 
 
@@ -37,51 +37,51 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 ## Přednášky a cvičení (PDF):
 
-- Vektory a matice <br>
- [prezentace](mtl/prednasky/matice.pdf),
- [Leslieho model I](mtl/prednasky/leslie_1.pdf),   [Markovovy řetězce](mtl/prednasky/markov.pdf) <br>
-  [řešené příklady I](mtl/pdfvideo/cv-matice1.pdf) (počítání s
-  maticemi - chyba v příkladu 3: na prvním řádku má být 6 místo 5),  
-  [řešené příklady II](mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní
-  matice, determinant)
+ #### 🟦 Vektory a matice 
+ 
+   - [prezentace](mtl/prednasky/matice.pdf),
+      [Leslieho model I](mtl/prednasky/leslie_1.pdf),   [Markovovy řetězce](mtl/prednasky/markov.pdf) <br>
+   - [řešené příklady I](mtl/pdfvideo/cv-matice1.pdf) (počítání s maticemi - chyba v příkladu 3: na prvním řádku má být 6 místo 5),  
+   - [řešené příklady II](mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní matice, determinant)
 
-- Soustavy lineárních rovnic <br>
- [prezentace](mtl/prednasky/soustavy.pdf),
+#### 🟦 Soustavy lineárních rovnic 
+ - [prezentace](mtl/prednasky/soustavy.pdf),
   [řešené příklady](mtl/pdfvideo/cv-soustavy.pdf),   [slovní
   úloha](mtl/prednasky/soustavy-apl.pdf)
 
-- Vlastní hodnoty a vektory  
-  [prezentace](mtl/prednasky/vl_hodnoty.pdf),   [Leslieho model
+####  🟦 Vlastní hodnoty a vektory  
+ - [prezentace](mtl/prednasky/vl_hodnoty.pdf),   [Leslieho model
   II](mtl/prednasky/leslie_2.pdf),   [řešené
   příklady](mtl/pdfvideo/cv-vl_hodnoty.pdf)
 
-- Funkce jedné a více proměnných  <br>
-  [prezentace I](mtl/prednasky/funkce_1.pdf) (funkce jedné proměnné),
-  [prezentace II](mtl/prednasky/funkce_2.pdf) (funkce dvou a více proměnných),  
-  [řešené příklady](mtl/pdfvideo/cv-funkce.pdf),   [exponenciální funkce
+#### 🟦 Funkce jedné a více proměnných  
+ - [prezentace I](mtl/prednasky/funkce_1.pdf) (funkce jedné proměnné),
+  [prezentace II](mtl/prednasky/funkce_2.pdf) (funkce dvou a více proměnných)  
+ - [řešené příklady](mtl/pdfvideo/cv-funkce.pdf),   [exponenciální funkce
   a logaritmus](mtl/pdfvideo/exponencialni.pdf)
 
-- Limita a spojitost (nepovinné) <br>
-  [prezentace](mtl/prednasky/limita.pdf)
+#### 🟦 Limita a spojitost (nepovinné) 
+ - [prezentace](mtl/prednasky/limita.pdf)
 
-- Derivace a parciální derivace funkce  <br>
-  [prezentace I](mtl/prednasky/derivace.pdf) (derivace),
-  [prezentace II](mtl/prednasky/parc-deriv.pdf) (parciální derivace),  
-  [řešené příklady I](mtl/pdfvideo/cv-derivace.pdf) (výpočet),
-  [řešené příklady II](mtl/pdfvideo/cv-aproximace.pdf) (lineární aproximace),  
-  [slovní úlohy](mtl/prednasky/derivace-apl.pdf)
+#### 📘 Derivace a parciální derivace funkce  
+-  [prezentace I](mtl/prednasky/derivace.pdf) (derivace),
+  [prezentace II](mtl/prednasky/parc-deriv.pdf) (parciální derivace)  
+-  [řešené příklady I](mtl/pdfvideo/cv-derivace.pdf) (výpočet),
+  [řešené příklady II](mtl/pdfvideo/cv-aproximace.pdf) (lineární aproximace)  
+-  [slovní úlohy](mtl/prednasky/derivace-apl.pdf)
 
-- Extrémy funkce jedné proměnné (a konvexnost/konkávnost)  
-  [prezentace](mtl/prednasky/extremy.pdf),   [slovní
+#### 📘 Extrémy funkce jedné proměnné (a konvexnost/konkávnost)  
+ - [prezentace](mtl/prednasky/extremy.pdf),   [slovní
   úlohy](mtl/prednasky/extremy-apl.pdf),   řešené příklady - viz video
   níže
 
-- Extrémy funkce dvou proměnných  
-  [prezentace](mtl/prednasky/extremy2.pdf),   [řešené příklady
+#### Extrémy funkce dvou proměnných  
+ - [prezentace](mtl/prednasky/extremy2.pdf),   [řešené příklady
   I](mtl/pdfvideo/cv-lok_extr.pdf) (lokální extrémy),   [řešené příklady
   II](mtl/pdfvideo/cv-abs_extr.pdf) (absolutní extrémy)
 
-- Integrální počet   [prezentace I](mtl/prednasky/neurc_int.pdf)
+#### Integrální počet   
+- [prezentace I](mtl/prednasky/neurc_int.pdf)
   (neurčitý integrál),   [prezentace II](mtl/prednasky/urc_int.pdf)
   (určitý integrál),   [řešené příklady](mtl/pdfvideo/cv-integraly.pdf) 
 
